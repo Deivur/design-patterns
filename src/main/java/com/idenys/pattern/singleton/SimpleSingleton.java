@@ -1,5 +1,8 @@
 package com.idenys.pattern.singleton;
 
+/**
+ * The simplest singleton NOT thread-safe implementation.
+ */
 public class SimpleSingleton {
 
     private static SimpleSingleton INSTANCE;
